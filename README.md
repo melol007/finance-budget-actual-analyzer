@@ -21,5 +21,5 @@ Este projeto tem como objetivo automatizar a conciliação entre o que foi orça
 - Facilitação do reporte para stakeholders.
 
 ---
-*Feito por Lucas Melo
+*Feito por Lucas Melo |
 *Projeto desenvolvido como parte do portfólio técnico em Finanças Corporativas.*
